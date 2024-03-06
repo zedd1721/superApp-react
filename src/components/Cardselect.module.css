@@ -1,0 +1,21 @@
+.card {
+  height: 161px;
+  width: 160px;
+  /* background-color: #ff5209; */
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+
+  padding: 13px;
+  position: relative;
+}
+.card h1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+.cardimg img {
+  position: absolute;
+  bottom: 13px;
+  width: 140px;
+}
